@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 
 const config = require("./package.json");
 
-const token = "NzQyMzY5NDAyODQ2MDUyMzcz.XzFHYg.fxrmAikPpq45VKKhSiSOadPI_Og";
+const token = "YOUR ROKEN";
 
 const atributos = [ "força", " destreza", " constituição", " intelecto", " percepção", " carisma"]
 
