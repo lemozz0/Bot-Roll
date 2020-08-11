@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 
 const config = require("./package-lock.json");
 
-const token = "NzQyMzY5NDAyODQ2MDUyMzcz.XzFHYg.fxrmAikPpq45VKKhSiSOadPI_Og";
+const token = "YOUR_TOKEN";
 
 bot.login(token)
 bot.on('ready', () => {
